@@ -1,0 +1,43 @@
+body {
+  position: relative;
+  background-image: url(./img/4MLyNZ66GSMUp7z49Q8k3K.jpeg);
+}
+#canvas {
+  display: flex;
+  margin: auto;
+}
+
+.score {
+  margin-left: 50px;
+  display: inline;
+  font-size: 30px;
+  color: white;
+}
+
+.loose {
+  margin-left: 50px;
+  font-size: 30px;
+  color: white;
+  display: none;
+}
+
+.reload {
+  margin-left: 50px;
+  font-size: 30px;
+  color: white;
+  display: none;
+}
+
+.inline {
+  display: inline;
+}
+
+select {
+  margin-left: 50px;
+  width: 120px;
+  font-size: 30px;
+}
+button {
+  margin-left: 50px;
+  font-size: 20px;
+}

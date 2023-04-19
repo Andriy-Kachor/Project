@@ -1,0 +1,40 @@
+.orageStyle {
+  color: orange;
+  font-size: 20px;
+  font-family: Comic Sans MS;
+}
+
+button {
+  display: block;
+  font-size: 15px;
+  line-height: 15px;
+}
+.BGCblue {
+  background-color: blue;
+}
+
+.BGCpink {
+  background-color: pink;
+}
+
+.BGCbrown {
+  background-color: brown;
+}
+
+.BGCgreen {
+  background-color: green;
+}
+
+.BGCyellow {
+  background-color: yellow;
+}
+
+select {
+  width: 220px;
+  height: 40px;
+  font-size: 20px;
+}
+
+.selectListBtn {
+  display: inline;
+}
